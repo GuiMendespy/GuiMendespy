@@ -25,17 +25,16 @@ I am a passionate technology student and developer bridging the gap between **So
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Software Development
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### 💻 Software Engineering
+![](https://img.shields.io/badge/Python_--_25%25-00F0FF?style=for-the-badge&logo=python&logoColor=black)
+![](https://img.shields.io/badge/Git_%26_Linux_--_20%25-FF007A?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Kotlin_--_13%25-9D00FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B_--_12%25-FF9F00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🔬 Hardware & Microelectronics
-![](https://img.shields.io/badge/VHDL-323330?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/Embedded_Systems-0054FF?style=for-the-badge)
+#### 🔬 Hardware & Automation
+![](https://img.shields.io/badge/SystemVerilog_--_15%25-39FF14?style=for-the-badge&logo=intel&logoColor=black)
+![](https://img.shields.io/badge/VHDL_--_10%25-00E5FF?style=for-the-badge)
+![](https://img.shields.io/badge/Makefile_--_5%25-FFEA00?style=for-the-badge&logo=gnu&logoColor=black)
 
 ---
 
