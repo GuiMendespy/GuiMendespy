@@ -13,18 +13,15 @@ I am a passionate technology student and developer bridging the gap between **So
 - 🏛️ **Institution:** Instituto Federal da Paraíba - IFPB
 - 📍 **Location:** Brazil 🇧🇷
 - 💼 **Looking for:** Internships and Junior roles in Software Development, Embedded Systems, or Hardware Engineering.
+<br/>
 
----
-
-## 📊 Most Used Languages (Interactive Stats)
-
-The graph below automatically updates based on the code in your GitHub repositories, showing a precise percentage of your stack:
+### 📊 Technologies Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMendespy&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages Graph" width="80%" />
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','Git%20%26%20Linux','SystemVerilog','Kotlin','C%2B%2B','VHDL','Makefile'],datasets:[{data:[25,20,15,13,12,10,5],backgroundColor:['%233776AB','%23FCC624','%23005F5F','%237F52FF','%2300599C','%23004B87','%23437A24']}]},options:{plugins:{legend:{position:'right',labels:{font:{color:'fff',size:14}}}},holeSize:60}}" width="60%" alt="Skills Circular Chart" />
 </p>
 
----
+<br/>
 
 ## 🛠️ Skills & Technologies
 
