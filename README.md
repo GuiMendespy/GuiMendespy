@@ -21,7 +21,7 @@ I am a passionate technology student and developer bridging the gap between **So
 The graph below automatically updates based on the code in your GitHub repositories, showing a precise percentage of your stack:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMendespy&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages Graph" width="80%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GuiMendespy&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages Graph" width="80%" /> />
 </p>
 
 ---
