@@ -1,4 +1,4 @@
-# Hi, I'm [Guilherme Mendes] 👋
+# Hi, I'm Guilherme Mendes 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5Ym81ZXN0bXp6Z3Z0eWZ6b3M0b3FpYm50amM0bW5pZ295cHZ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbyRP29kNNN9C/giphy.gif" width="45%" alt="Software Engineering GIF" />
